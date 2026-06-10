@@ -1,6 +1,6 @@
 name: otel_voiceflow
 description: "Dartastic OpenTelemetry bridge for Voiceflow conversational AI (interactions, projects, dialogs, knowledge bases)."
-version: 0.1.0-beta.2-wip
+version: 0.1.0-beta.2
 repository: https://github.com/dartastic/otel_voiceflow
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
